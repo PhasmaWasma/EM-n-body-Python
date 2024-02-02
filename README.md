@@ -18,4 +18,4 @@ The simulations currently do not account for the force blowing up when two charg
 
 Also, the retarded times are not accounted for yet and the simulation will only run if the retarded time is less than the time step.
 
-Conservation laws for electrodynamics are also not accounted for yet
+Conservation laws for electrodynamics are also not accounted for yet due to the much higher complexity compared to mechanics.
